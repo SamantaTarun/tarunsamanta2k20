@@ -9,7 +9,6 @@ tarunsamanta2k20/tarunsamanta2k20 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 
 ## 1. GitHub Stats
 
@@ -31,6 +30,3 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tarunsamanta2k20)
 
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/tarunsamanta2k20/Python)
