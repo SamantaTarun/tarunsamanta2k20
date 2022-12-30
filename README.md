@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tarunsamanta2k20
-- 👀 I’m interested in Programking
+- 👋 Hi, I’m @tarunsamanta
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+
 
 <!---
 tarunsamanta2k20/tarunsamanta2k20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
