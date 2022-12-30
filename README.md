@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tarunsamanta
+- 👋 Hi, I’m Tarun Samanta
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on open source projects
