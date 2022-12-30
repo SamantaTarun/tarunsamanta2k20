@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarunsamanta2k20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programking
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
 <!---
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 2. Most Used Languages
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsamanta2k20&theme=blue-green)
 
 ## 3. Contributors Badge
 
@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 5. Profile View Counter
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=tarunsamanta2k20)
 
 ### Repository View Counter - HITS
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/tarunsamanta2k20/Python)
