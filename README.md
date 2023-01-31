@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun Samanta
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently exploring Frontend Technologies
 - 💞️ I’m looking to collaborate on open source projects
 
 
