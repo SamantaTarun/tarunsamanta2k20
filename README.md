@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 1. GitHub Stats
 
-# [Hi, I'm Tarun <img src="https://github.com/tarunsamanta2k20" width="29px">](https://github-readme-activity-graph.vercel.app/graph?username=tarunsamanta2k20&custom_title=This%20is%20a%20title&hide_border=true)
+##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunsamanta2k20&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/tarunsamanta2k20/github-readme-activity-graph)
 ## 2. Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsamanta2k20&theme=blue-green)
