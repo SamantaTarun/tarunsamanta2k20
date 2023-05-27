@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunsamanta2k20&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/tarunsamanta2k20/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tarunsamanta2k20)](https://git.io/streak-stats)
+
 ## 2. Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsamanta2k20&theme=blue-green)
