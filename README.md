@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 1. GitHub Stats
-# Hi, I'm Tarun <img src="https://github.com/tarunsamanta2k20/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+# Hi, I'm Tarun <img src="https://github.com/tarunsamanta2k20/blob/master/" width="29px">
 ## 2. Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsamanta2k20&theme=blue-green)
