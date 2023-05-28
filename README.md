@@ -10,9 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## 1. GitHub Stats
-
-
 ## 2. Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsamanta2k20&theme=blue-green)
