@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Backend, Frontend, Devops projects**
 
-- 🤝 I’m looking for help with **Security projects**
+- 🤝 I’m looking for help with **Network and Security projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarunsamanta2k20?tab=repositories&q=&type=source&language=&sort=](https://github.com/tarunsamanta2k20?tab=repositories&q=&type=source&language=&sort=)
 
