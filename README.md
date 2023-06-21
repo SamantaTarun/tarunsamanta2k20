@@ -11,15 +11,11 @@
 
 - 🤝 I’m looking for help with **Network and Security projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tarunsamanta2k20?tab=repositories&q=&type=source&language=&sort=](https://github.com/tarunsamanta2k20?tab=repositories&q=&type=source&language=&sort=)
-
 - 📝 I regularly write articles on [Medium](Medium)
 
 - 💬 Ask me about **Spring Boot, Mysql, React**
 
 - 📫 How to reach me **tarunsamanta77@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D8EYdjZHLpQdyMgJkfaUOPlBiIEITbKW/view?usp=sharing](https://drive.google.com/file/d/1D8EYdjZHLpQdyMgJkfaUOPlBiIEITbKW/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am lazy**
 
