@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Spring Boot, Mysql, React**
+- 💬 Ask me about **C++, Core Java, Spring Boot, Mysql, React**
 
 - 📫 How to reach me **tarunsamanta77@gmail.com**
 
